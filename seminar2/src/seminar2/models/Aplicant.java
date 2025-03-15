@@ -1,4 +1,4 @@
-package seminar2.clase;
+package seminar2.models;
 
 public abstract class Aplicant{
 	protected String nume;

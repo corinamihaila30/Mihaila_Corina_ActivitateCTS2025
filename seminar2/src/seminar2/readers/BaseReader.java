@@ -1,6 +1,6 @@
-package readers;
+package seminar2.readers;
 
-import seminar2.clase.Aplicant;
+import seminar2.models.Aplicant;
 
 import java.io.FileNotFoundException;
 import java.util.List;
@@ -17,7 +17,7 @@ public abstract class BaseReader {
         return fileName;
     }
 
-    public void citireAplicant(Scanner input2,Aplicant aplicant) {
+    public void citireAplicant(Scanner input2, Aplicant aplicant) {
         String nume = input2.next();
         String prenume = input2.next();
         int varsta = input2.nextInt();

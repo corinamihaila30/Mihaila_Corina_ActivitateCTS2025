@@ -1,4 +1,4 @@
-package seminar2.clase;
+package seminar2.models;
 
 import java.util.Arrays;
 

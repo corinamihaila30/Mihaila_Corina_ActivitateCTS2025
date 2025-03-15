@@ -1,8 +1,8 @@
-package seminar2.clase;
+package seminar2.models;
 
 import java.util.Arrays;
 
-public class Elev extends Aplicant{
+public class Elev extends Aplicant {
 	private int clasa;
 	private String tutore;
 	

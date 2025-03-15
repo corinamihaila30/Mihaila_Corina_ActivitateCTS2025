@@ -1,8 +1,8 @@
-package seminar2.clase;
+package seminar2.models;
 
 import java.util.Arrays;
 
-public class Angajat extends Aplicant{
+public class Angajat extends Aplicant {
 	private String ocupatie;
 	private int salariu;
 	

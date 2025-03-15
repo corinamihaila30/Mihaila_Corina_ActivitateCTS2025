@@ -1,8 +1,7 @@
-package readers;
+package seminar2.readers;
 
-import seminar2.clase.Aplicant;
-import seminar2.clase.Elev;
-import seminar2.clase.Student;
+import seminar2.models.Aplicant;
+import seminar2.models.Student;
 
 import java.io.File;
 import java.io.FileNotFoundException;
